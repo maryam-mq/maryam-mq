@@ -1,6 +1,6 @@
 # Hi, I'm maryam qayyum👋
 
-I am a **Software Engineer and Business Developer** with expertise in **Shopify Liquid development**, **React.js**, **Django**, **Flask**, **HTML/CSS**, and **Python**. I'm driven by a passion for innovation and a desire to create user-centric solutions that make a real impact. With a solid computer science foundation and a software engineering degree from the University of Gujrat, I've developed a unique blend of technical expertise and creative problem-solving skills. My recent work includes making websites accessible following **WCAG guidelines**, optimizing for SEO, and ensuring compliance with the latest standards to enhance the user experience for disabled individuals.
+I am a **Software Engineer and Business Developer** with expertise in **Shopify Liquid development**, **React.js**, **Django**, **Flask**, **HTML/CSS**, and **Python**. I'm driven by a passion for innovation and a desire to create user-centric solutions that make a real impact. With a solid computer science foundation and a information technology degree from the GC University of faislabad, I've developed a unique blend of technical expertise and creative problem-solving skills. My recent work includes making websites accessible following **WCAG guidelines**, optimizing for SEO, and ensuring compliance with the latest standards to enhance the user experience for disabled individuals.
 
 ---
 
@@ -98,21 +98,16 @@ I am a **Software Engineer and Business Developer** with expertise in **Shopify 
 - Managed client feedback and incorporated it into the development process, enhancing project outcomes.
 - Collaborated on GitHub for smooth deployments and issue resolutions.
 
-### Python Django Trainee | Knowledge Streams (Jan 2024 – April 2024)
-- Developed full-stack web applications using **Python Django** in **Visual Studio Code**.
-- Collaborated in a **Git/GitHub** environment for version control and teamwork.
-- Gained experience working in fast-paced development cycles, problem-solving, and learning best practices from experienced mentors.
 
----
 
 ## 🎓 Education
 
-**BS - Software Engineering**  
-University of Gujrat (2019 - 2023)
+**BS - Information Technology**  
+university of faislabad(2023-2027)
 
 ---
 
 ## 🌐 Let's Connect
-- **Email:** attiq.rehman023@gmail.com
-- **LinkedIn:** [Attiq Ur Rehman](https://www.linkedin.com/in/attiq-rehman-/)
-- **GitHub:** [Attiq Ur Rehman](https://github.com/attiqrehman-ar)
+- **Email:** merry.mq19@gmail.com
+- **LinkedIn:** [Maryam Qayyum](https://www.linkedin.com/in/maryam-qayyum-3b452b374/)
+- **GitHub:** [Maryam Qayyum](https://github.com/maryam-mq)
