@@ -32,22 +32,6 @@ I enjoy solving problems, creating **modern UI designs**, and turning ideas into
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaryamQayyum&show_icons=true&theme=radical" alt="Maryam's GitHub stats" />
-</p>  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MaryamQayyum&theme=dracula&hide_border=false" height="200" alt="streak graph" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaryamQayyum&layout=compact&show_icons=true&locale=en" alt="Top Languages" />
-</p>  
-
----
-
 ## 🌱 Currently Learning  
 
 - **Advanced React.js** & frontend frameworks  
@@ -66,6 +50,6 @@ I enjoy solving problems, creating **modern UI designs**, and turning ideas into
 
 ## 🌐 Connect With Me  
 
-linkdIn:(https://www.linkedin.com/in/maryam-qayyum-3b452b374/ )  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/maryam-qayyum-3b452b374/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/maryam-mq )  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](merry.mq@gmail.com )  
