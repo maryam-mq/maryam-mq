@@ -26,10 +26,9 @@ I enjoy solving problems, creating **modern UI designs**, and turning ideas into
 
 ## 🚀 Featured Projects  
 
-- [Responsive Portfolio Website]( ) – Personal portfolio with projects & contact form.  
-- [Shopify Custom Store]( ) – A fully customized Shopify store with product listing.  
-- [JavaScript To-Do App]( ) – Simple yet powerful app with task management.  
-- [______] – (Add another project here).  
+- [Responsive Portfolio Website](https://github.com/maryam-mq/portfolio ) – Personal portfolio with projects & contact form.  
+- [JavaScript To-Do App](https://github.com/maryam-mq/to-do-list ) – Simple yet powerful app with task management.  
+- [responsive img gallery](https://github.com/maryam-mq/Responsive-img-gallery) – resposive img gallery.  
 
 ---
 
@@ -54,7 +53,7 @@ I enjoy solving problems, creating **modern UI designs**, and turning ideas into
 - **Advanced React.js** & frontend frameworks  
 - **Shopify theme customization**  
 - **Git & GitHub best practices**  
-- [______]  
+
 
 ---
 
@@ -67,6 +66,6 @@ I enjoy solving problems, creating **modern UI designs**, and turning ideas into
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-qayyum-3b452b374/ )  
+linkdIn:(https://www.linkedin.com/in/maryam-qayyum-3b452b374/ )  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/maryam-mq )  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](merry.mq@gmail.com )  
