@@ -1,79 +1,72 @@
-# Hi, I'm maryam qayyum👋
+# Hi, I'm Maryam Qayyum 👋  
 
-I am a **IT student with interests in Web development** with expertise in **Shopify Liquid development**, **React.js**, **HTML/CSS**, and **Python**. I'm driven by a passion for innovation and a desire to create user-centric solutions that make a real impact. With a solid computer science foundation , I've developed a unique blend of technical expertise and creative problem-solving skills. My recent work includes making websites accessible following **WCAG guidelines**, optimizing for SEO, and ensuring compliance with the latest standards to enhance the user experience for disabled individuals.
+**Frontend Developer | IT Student | E-commerce Enthusiast**  
 
----
+I’m a passionate **Frontend Web Developer** currently pursuing my degree in **Information Technology**. I specialize in building **responsive, user-friendly websites** using **HTML, CSS, JavaScript, and React.js**, and I’m also experienced in working with **Shopify, Webflow, and custom-coded stores**.  
 
-## 🛠️ Technologies & Tools I Work With:
-
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" width="120" />
-    </td>
-   
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" width="120" />
-    </td>
-  </tr>
-  <tr>
-   
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-SEO-4CAF50?style=flat-square&logo=google&logoColor=white" alt="SEO" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" width="120" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="120" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" alt="Trello" width="120" />
-    </td>
-  </tr>
-</table>
+I enjoy solving problems, creating **modern UI designs**, and turning ideas into functional, accessible digital products. My goal is to grow as a developer while helping businesses bring their online presence to life.  
 
 ---
 
+## 🛠️ Tech Stack & Tools  
 
-## Most Used Languages
-<div>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=attiqrehman-ar&show_icons=true&locale=en&layout=compact" alt="attiqrehman-ar" />
-</p>
-</div>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>  
 
+---
 
+## 🚀 Featured Projects  
 
+- [Responsive Portfolio Website]( ) – Personal portfolio with projects & contact form.  
+- [Shopify Custom Store]( ) – A fully customized Shopify store with product listing.  
+- [JavaScript To-Do App]( ) – Simple yet powerful app with task management.  
+- [______] – (Add another project here).  
 
+---
 
-## 🎓 Education
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaryamQayyum&show_icons=true&theme=radical" alt="Maryam's GitHub stats" />
+</p>  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MaryamQayyum&theme=dracula&hide_border=false" height="200" alt="streak graph" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaryamQayyum&layout=compact&show_icons=true&locale=en" alt="Top Languages" />
+</p>  
+
+---
+
+## 🌱 Currently Learning  
+
+- **Advanced React.js** & frontend frameworks  
+- **Shopify theme customization**  
+- **Git & GitHub best practices**  
+- [______]  
+
+---
+
+## 🎓 Education  
 
 **BS - Information Technology**  
-university of faislabad(2023-2027)
+[GC university of faislabad] *(2023 – Present)*  
 
 ---
 
-## 🌐 Let's Connect
-- **Email:** merry.mq19@gmail.com
-- **LinkedIn:** [Maryam Qayyum](https://www.linkedin.com/in/maryam-qayyum-3b452b374/)
-- **GitHub:** [Maryam Qayyum](https://github.com/maryam-mq)
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-qayyum-3b452b374/ )  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/maryam-mq )  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](merry.mq@gmail.com )  
