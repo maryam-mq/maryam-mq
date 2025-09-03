@@ -50,6 +50,6 @@ I enjoy solving problems, creating **modern UI designs**, and turning ideas into
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/maryam-qayyum-3b452b374/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-qayyum-3b452b374/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/maryam-mq )  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](merry.mq@gmail.com )  
